@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 32px;
+    font-family: Arial, sans-serif;
+    background: #f3efe7;
+    color: #1f1f1f;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    margin-top: 0;
+    color: #2f3a2e;
+}
+
+a {
+    color: #8a4d2f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5f351f;
+}
+
+.card {
+    max-width: 760px;
+    margin: 0 auto 20px;
+    padding: 24px;
+    background: #fffaf2;
+    border: 1px solid #e0d2bf;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+}
+
+.section {
+    padding-top: 20px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 16px;
+    border-radius: 12px;
+}
